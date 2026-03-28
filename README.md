@@ -141,13 +141,6 @@ npm run build
 5. Open a Pull Request
 
 
-
-## 👨‍💻 Author
-
-**Sameer Ansari**
-- GitHub: [@SameerAnsari0786](https://github.com/SameerAnsari0786)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/sameeransari2005)
-
 ## 🌟 Show your support
 
 Give a ⭐️ if this project helped you!
