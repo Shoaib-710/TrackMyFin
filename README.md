@@ -62,12 +62,12 @@ Frontend runs on: `http://localhost:3000`
 ### Backend
 - **Framework**: Spring Boot
 - **Language**: Java
-- **Database**: H2 (Development) / MySQL (Production)
+- **Database**: MySQL (Production)
 - **Security**: JWT Authentication
 - **Build Tool**: Maven
 
 ### Frontend
-- **Framework**: React 18
+- **Framework**: React 
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **State Management**: Context API
