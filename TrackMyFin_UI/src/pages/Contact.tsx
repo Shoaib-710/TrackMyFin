@@ -144,7 +144,7 @@ const Contact: React.FC = () => {
                     <div>
                       <h3 className={`text-lg font-semibold mb-1 ${isDark ? 'text-white' : 'text-gray-900'}`}>Email Us</h3>
                       <p className={`text-sm mb-2 ${isDark ? 'text-gray-400' : 'text-gray-600'}`}>Get in touch via email</p>
-                      <p className={`font-medium ${isDark ? 'text-gray-300' : 'text-gray-800'}`}>sameeransari80383@gmail.com</p>
+                      <p className={`font-medium ${isDark ? 'text-gray-300' : 'text-gray-800'}`}>akhtarshoaib5479@gmail.com</p>
                     </div>
                   </div>
                 </div>
